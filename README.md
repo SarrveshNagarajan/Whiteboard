@@ -18,7 +18,7 @@ To run the Whiteboard project locally:
 
 2. Navigate to the project directory:
    ```bash
-   cd social-media-app
+   cd Whiteboard
 
 4. Install dependencies:
    ```bash
