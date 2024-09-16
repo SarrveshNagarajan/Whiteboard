@@ -14,7 +14,7 @@ To run the Whiteboard project locally:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/AbdulSamad01/social-media-app.git
+   git clone https://github.com/SarrveshNagarajan/Whiteboard.git
 
 2. Navigate to the project directory:
    ```bash
